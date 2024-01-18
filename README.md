@@ -1,12 +1,12 @@
 
 <h1 align="center">Hey 👋, I'm Ronit Bhatt</h1>
-<h3 align="center">I'm a Final-year student at IIIT Pune,dedicated to mastering the art of problem-solving through competitive programming, while simultaneously delving into the dynamic worlds of web development and machine learning. I thrive on transforming ideas into functional code and am eager to contribute to cutting-edge projects. Let's collaborate and create impactful solutions together!</h3>
+<h3 align="center">I'm a Final-year student at IIIT Pune , dedicated to mastering the art of problem solving through competitive programming, while simultaneously delving into the dynamic worlds of web development and machine learning. I thrive on transforming ideas into functional code and am eager to contribute to cutting-edge projects. Let's collaborate and create impactful solutions together!</h3>
 
 <img align = "right" alt = "coding" width = "400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bronit27&label=Profile%20views&color=0e75b6&style=flat" alt="bronit27" /> </p>
 
-- 📫 How to reach me **ronitbhatt360@gmail.com**
+- 📫 Reach me at **ronitbhatt360@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
