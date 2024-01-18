@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey 👋, I'm Ronit BHatt</h1>
+<h1 align="center">Hey 👋, I'm Ronit Bhatt</h1>
 <h3 align="center">I'm a Final-year student at IIIT Pune,dedicated to mastering the art of problem-solving through competitive programming, while simultaneously delving into the dynamic worlds of web development and machine learning. I thrive on transforming ideas into functional code and am eager to contribute to cutting-edge projects. Let's collaborate and create impactful solutions together!</h3>
 
 <img align = "right" alt = "coding" width = "400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -10,11 +10,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/itsRo27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsRo27" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ronit-bhatt-5096b420b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronit-bhatt-5096b420b" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/bronit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bronit" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bronit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bronit" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ro27" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcodechef-codechef--554646510333611675%2F&psig=AOvVaw1_lg1VVJFQ85PXbx9QAVrk&ust=1705658720612000&source=images&cd=vfe&ved=0CBMQjRxqFwoTCPDcqYPY5oMDFQAAAAAdAAAAABAE" alt="ro27" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ro27" target="blank"><img align="center" src="https://camo.githubusercontent.com/d3a7f4d6365c27e8c55788ac0f41a3045885159b63b8c9810bbcb259027555da/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f636f6465636865665f7368617265642f73697465732f616c6c2f7468656d65732f61626573736976652f6c6f676f2e737667" alt="ro27" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
